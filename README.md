@@ -30,13 +30,13 @@
 
 ## 😎 About Me
 
-Offensive Security Researcher & Penetration Tester focused on Web Security, Network Security, Red Teaming and Vulnerability Assessment.
+**Security Researcher passionate about DFIR, Threat Hunting, Web Security, and Vulnerability Assessment.**
 
-- 🎓 B.Sc. Computer Science Student (2024–2028)
-- 🛡️ Cybersecurity Intern at ENCODERSPRO Pvt. Ltd.
+- 🎓 Bachelor of Science in Computer Science [2024–2027]
+- 🛡️ Former Cybersecurity Intern at ENCODERSPRO Pvt. Ltd.
 - 🏆 Top 8% Globally on TryHackMe
-- ⚔️ Primary Focus: Red Team Operations
-- 🔍 Interested in Web Security, Network Security, VAPT & Adversary Simulation
+- ⚔️ Primary Focus: Network Security, Web Pentesting, Digital Forensic
+- 🔍 Interested in Digital Forensic, Web Security, Network Security, VAPT & Adversary Simulation
 - 🌐 Building Security-Focused Tools and Automation Projects
 
 ---
