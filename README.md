@@ -124,7 +124,7 @@
 <a href="https://sonajit.in">
   <img src="https://img.shields.io/badge/-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" height="32" title="Website" />
 </a>&nbsp;
-<a href="mailto:hellot@sonajit.in">
+<a href="mailto:hello@sonajit.in">
   <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" title="Email" />
 </a>
 
